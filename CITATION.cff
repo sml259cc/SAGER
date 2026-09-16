@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: >-
+  If you use SAGER, please cite this software and the accompanying paper
+  when its final bibliographic record is available.
+type: software
+title: "SAGER: Selective Text-Anchor Revision for Multimodal Emotion Recognition in Conversation"
+version: 3.0.0
+authors:
+  - family-names: Shen
+    given-names: Menglu
+  - family-names: Jin
+    given-names: Lei
+  - family-names: Yu
+    given-names: Wenxue
+  - family-names: Jiang
+    given-names: Linlian
+  - family-names: Yang
+    given-names: Chunfeng
+abstract: >-
+  Main-experiment implementation of selective text-anchor revision for
+  conversational emotion recognition using frozen text and audio features.
+keywords:
+  - conversational emotion recognition
+  - text anchor
+  - selective revision
+  - multimodal learning
