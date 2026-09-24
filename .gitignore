@@ -1,0 +1,39 @@
+# Local datasets, derived features, weights, and experiment output
+/dataset/
+/features/**
+!/features/README.md
+/checkpoints/
+/runs/
+/reports/
+/private/
+/dist/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.wav
+*.mp4
+*.zip
+*.log
+
+# Credentials and workstation metadata
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+._*
+.idea/
+.vscode/
+
+# Python build output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+*.egg-info/
